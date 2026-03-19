@@ -129,7 +129,9 @@ Manipulação de pessoas para obter acesso (ex: phishing).
 
 ---
 
-## 🚀 Considerações Finais
+🚀 Considerações Finais
+
+Este projeto demonstra a aplicação de IA como ferramenta de apoio ao aprendizado em cibersegurança, destacando não apenas os resultados obtidos, mas também o processo de construção do conhecimento.
 
 O foco foi desenvolver autonomia, pensamento crítico e capacidade de investigação — habilidades essenciais para atuação na área de Red Team.
 
