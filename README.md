@@ -6,6 +6,8 @@ Este repositório tem como objetivo servir como um guia de estudo sobre **Cibers
 
 O estudo foi desenvolvido com apoio de IA (NotebookLM), visando não apenas compreender conceitos teóricos, mas também desenvolver pensamento crítico e habilidades práticas.
 
+### Link: https://github.com/Datsc-21/miniguia-estudos-notebooklm/edit/main/README.md
+
 ### 🎯 Objetivos:
 
 * Compreender o papel do Red Team na segurança ofensiva
